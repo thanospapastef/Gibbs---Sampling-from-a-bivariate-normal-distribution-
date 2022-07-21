@@ -1,4 +1,4 @@
-# Gibbs---sampler
+# Gibbs sampler
 
 Sampling from a bivariate normal distribution 
 
